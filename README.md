@@ -1,1 +1,31 @@
 # United_of_tokens_2
+I have got the next packages:
+aniso8601==9.0.1
+bcrypt==3.2.0
+blinker==1.4
+cffi==1.15.0
+click==8.0.4
+colorama==0.4.4
+dnspython==2.2.0
+email-validator==1.1.3
+Flask==2.0.3
+Flask-Bcrypt==0.7.1
+Flask-JWT-Extended==4.3.1
+Flask-Mail==0.9.1
+flask-mongoengine==1.0.0
+Flask-RESTful==0.3.9
+Flask-WTF==1.0.0
+idna==3.3
+itsdangerous==2.1.0
+Jinja2==3.0.3
+MarkupSafe==2.1.0
+mongoengine==0.24.0
+passlib==1.7.4
+pycparser==2.21
+PyJWT==2.3.0
+pymongo==3.12.3
+python-dotenv==0.19.2
+pytz==2021.3
+six==1.16.0
+Werkzeug==2.0.3
+WTForms==3.0.1
